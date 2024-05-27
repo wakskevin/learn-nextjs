@@ -1,0 +1,4 @@
+{
+    // disabled typescript validation in the jupyter notebooks
+    "typescript.validate.enable": false,
+}
